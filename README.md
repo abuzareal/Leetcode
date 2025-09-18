@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/abuzareal/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/abuzareal/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2429-design-a-food-rating-system](https://github.com/abuzareal/Leetcode/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/abuzareal/Leetcode/tree/master/3678-design-task-manager) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/abuzareal/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/abuzareal/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2429-design-a-food-rating-system](https://github.com/abuzareal/Leetcode/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/abuzareal/Leetcode/tree/master/3678-design-task-manager) |
 ## Greedy
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abuzareal/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2429-design-a-food-rating-system](https://github.com/abuzareal/Leetcode/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/abuzareal/Leetcode/tree/master/3678-design-task-manager) |
 ## Binary Search
 |  |
 | ------- |
@@ -128,4 +131,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/abuzareal/Leetcode/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/abuzareal/Leetcode/tree/master/3678-design-task-manager) |
 <!---LeetCode Topics End-->
