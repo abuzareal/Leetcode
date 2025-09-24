@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/abuzareal/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/abuzareal/Leetcode/tree/master/0013-roman-to-integer) |
+| [0166-fraction-to-recurring-decimal](https://github.com/abuzareal/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [1006-vowel-spellchecker](https://github.com/abuzareal/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/abuzareal/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/abuzareal/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abuzareal/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/abuzareal/Leetcode/tree/master/0058-length-of-last-word) |
 | [0165-compare-version-numbers](https://github.com/abuzareal/Leetcode/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/abuzareal/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [1006-vowel-spellchecker](https://github.com/abuzareal/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/abuzareal/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2429-design-a-food-rating-system](https://github.com/abuzareal/Leetcode/tree/master/2429-design-a-food-rating-system) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/abuzareal/Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/abuzareal/Leetcode/tree/master/0066-plus-one) |
+| [0166-fraction-to-recurring-decimal](https://github.com/abuzareal/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/abuzareal/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/abuzareal/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/abuzareal/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
