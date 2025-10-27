@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/abuzareal/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/abuzareal/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2058-concatenation-of-array](https://github.com/abuzareal/Leetcode/tree/master/2058-concatenation-of-array) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/abuzareal/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/abuzareal/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2429-design-a-food-rating-system](https://github.com/abuzareal/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/abuzareal/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/abuzareal/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [1006-vowel-spellchecker](https://github.com/abuzareal/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/abuzareal/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/abuzareal/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2429-design-a-food-rating-system](https://github.com/abuzareal/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3379-score-of-a-string](https://github.com/abuzareal/Leetcode/tree/master/3379-score-of-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/abuzareal/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/abuzareal/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/abuzareal/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/abuzareal/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/abuzareal/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/abuzareal/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/abuzareal/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Dynamic Programming
@@ -146,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3827-implement-router](https://github.com/abuzareal/Leetcode/tree/master/3827-implement-router) |
+## Matrix
+|  |
+| ------- |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/abuzareal/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 <!---LeetCode Topics End-->
